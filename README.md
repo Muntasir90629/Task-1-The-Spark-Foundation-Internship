@@ -1,4 +1,4 @@
-#The-Spark-Foundation-Internship
+The-Spark-Foundation-Internship
 
 Task 1 Prediction using Supervised ML.
 
